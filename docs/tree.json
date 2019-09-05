@@ -1,0 +1,21 @@
+[
+    "overview",
+    "installation",
+    "addon/overview",
+    "addon/credentials",
+    "addon/mapping",
+    "addon/sampling",
+    "addon/presets",
+    "modeling/overview",
+    "modeling/overview",
+    "modeling/modeling",
+    "modeling/importing",
+    "rigging/overview",
+    "rigging/joints",
+    "rigging/constraints",
+    "rigging/physics",
+    "animating/overview",
+    "animating/movement",
+    "animating/sound",
+    "animating/simulation"
+]
