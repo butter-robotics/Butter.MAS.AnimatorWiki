@@ -6,4 +6,4 @@ Butter MAS animator extend the amazing, open-source Blender animation software, 
 
 # Cover
 
-This documentation will cover basic usage of Blender features, with detailed cover of the Butter MAS Animator extension.
+This documentation will cover in depth the Butter MAS Animator extension. In addition we will cover basic usage of Blender features. We recommend following the [official Blender documentation](https://docs.blender.org/manual/en/latest/) along side this documentation for in depth understanding of Blender if you are not already familiar with it. We will link to the relevant Blender documentation in each section of  this documentation.
