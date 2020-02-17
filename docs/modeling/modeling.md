@@ -9,7 +9,7 @@ Meshes are defined by three basic structures: vertices, edges and faces.
 - edge: a straight line that connects two different vertices.
 - face: the area (or polygon) defined between at least tree vertices.
 
-    ![mesh structure](https://github.com/bennymeg/Butter.MAS.AnimatorWiki/raw/master/resources/modeling/mesh_structure.png "Mesh structure")
+    <img src="https://github.com/bennymeg/Butter.MAS.AnimatorWiki/raw/master/resources/modeling/mesh_structure.png"     class="img-fluid" alt="Mesh structure">
 
 Manipulating these structures will modify the mesh shape.
 You can read more about meshes structure [here](https://docs.blender.org/manual/en/latest/modeling/meshes/structure.html).
@@ -20,11 +20,11 @@ You can added a mesh object to you design in two main way:
 - In object mode:
 Under the 3D editor toolbar select `Add > Mesh > select a mesh`
 
-    ![add mesh object mode](https://github.com/bennymeg/Butter.MAS.AnimatorWiki/raw/master/resources/modeling/add_mesh_obj.jpg "Add mesh - object mode")
+    <img src="https://github.com/bennymeg/Butter.MAS.AnimatorWiki/raw/master/resources/modeling/add_mesh_obj.jpg"   class="img-fluid" alt="Add mesh - object mode">
 - In edit mode:
 Under the 3D editor toolbar select `Add > Mesh > select a mesh`
 
-    ![add mesh edit mode](https://github.com/bennymeg/Butter.MAS.AnimatorWiki/raw/master/resources/modeling/add_mesh_edit.jpg "Add mesh - edit mode")
+    <img src="https://github.com/bennymeg/Butter.MAS.AnimatorWiki/raw/master/resources/modeling/add_mesh_edit.jpg"   class="img-fluid" alt="Add mesh - edit mode">
 
 ## Positioning a Mesh
 
@@ -34,7 +34,7 @@ In order to control an object position, follow the following steps:
 - select the object you wish to manipulate
 - use the arrows to manipulate the object
 
-    ![sidebar](https://github.com/bennymeg/Butter.MAS.AnimatorWiki/raw/master/resources/general/sidebar_obj.jpg "Sidebar")
+    <img src="https://github.com/bennymeg/Butter.MAS.AnimatorWiki/raw/master/resources/general/sidebar_obj.jpg"   class="img-fluid" alt="Sidebar">
 
 ## Manipulating a Mesh
 
