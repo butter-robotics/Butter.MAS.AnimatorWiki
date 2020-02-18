@@ -12,6 +12,7 @@
     "rigging/overview",
     "rigging/armature",
     "rigging/joints",
+    "rigging/links",
     "rigging/constraints",
     "rigging/drivers",
     "rigging/physics",
