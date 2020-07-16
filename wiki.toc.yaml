@@ -1,0 +1,51 @@
+---
+- label: Installation
+  data: wiki/installation.md
+- label: Qverview
+  data: wiki/overview.md
+- label: addon
+  items:
+  - label: Overview
+    data: wiki/addon/overview.md
+  - label: Credentials
+    data: wiki/addon/credentials.md
+  - label: Mapping
+    data: wiki/addon/mapping.md
+  - label: Sampling
+    data: wiki/addon/sampling.md
+  - label: Presets
+    data: wiki/addon/presets.md
+- label: Modeling
+  items:
+  - label: Overview
+    data: wiki/modeling/overview.md
+  - label: Modeling
+    data: wiki/modeling/modeling.md
+  - label: Importing
+    data: wiki/modeling/importing.md
+- label: Rigging
+  items:
+  - label: Overview
+    data: wiki/rigging/overview.md
+  - label: Armature
+    data: wiki/rigging/armature.md
+  - label: Joints
+    data: wiki/rigging/joints.md
+  - label: datas
+    data: wiki/rigging/datas.md
+  - label: Constraints
+    data: wiki/rigging/constraints.md
+  - label: drivers
+    data: wiki/rigging/drivers.md
+  - label: Physics
+    data: wiki/rigging/physics.md
+- label: Animating
+  items:
+  - label: Overview
+    data: wiki/animating/overview.md
+  - label: Movement
+    data: wiki/animating/movement.md
+  - label: Sound
+    data: wiki/animating/sound.md
+  - label: Simulation
+    data: wiki/animating/simulation.md
