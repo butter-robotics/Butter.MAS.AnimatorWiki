@@ -1,7 +1,7 @@
 ---
 - label: Installation
   data: wiki/installation.md
-- label: Qverview
+- label: Overview
   data: wiki/overview.md
 - label: addon
   items:
