@@ -31,8 +31,8 @@
     data: wiki/rigging/armature.md
   - label: Joints
     data: wiki/rigging/joints.md
-  - label: datas
-    data: wiki/rigging/datas.md
+  - label: links
+    data: wiki/rigging/links.md
   - label: Constraints
     data: wiki/rigging/constraints.md
   - label: drivers
