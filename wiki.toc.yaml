@@ -7,6 +7,7 @@ projects:
     path: wiki
     versions:
       latest:
+        symlink: v2
         toc: v2/revision.toc.yaml
         release: stable
         supported: true
