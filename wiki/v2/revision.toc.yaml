@@ -1,0 +1,52 @@
+---
+- label: Installation
+  data: installation.md
+- label: Overview
+  data: overview.md
+- label: addon
+  items:
+  - label: Overview
+    data: addon/overview.md
+  - label: Credentials
+    data: addon/credentials.md
+  - label: Mapping
+    data: addon/mapping.md
+  - label: Sampling
+    data: addon/sampling.md
+  - label: Presets
+    data: addon/presets.md
+- label: Modeling
+  items:
+  - label: Overview
+    data: modeling/overview.md
+  - label: Modeling
+    data: modeling/modeling.md
+  - label: Importing
+    data: modeling/importing.md
+- label: Rigging
+  items:
+  - label: Overview
+    data: rigging/overview.md
+  - label: Armature
+    data: rigging/armature.md
+  - label: Joints
+    data: rigging/joints.md
+  - label: links
+    data: rigging/links.md
+  - label: Constraints
+    data: rigging/constraints.md
+  - label: drivers
+    data: rigging/drivers.md
+  - label: Physics
+    data: rigging/physics.md
+- label: Animating
+  items:
+  - label: Overview
+    data: animating/overview.md
+  - label: Movement
+    data: animating/movement.md
+  - label: Sound
+    data: animating/sound.md
+  - label: Simulation
+    data: animating/simulation.md
+...
